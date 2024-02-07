@@ -73,7 +73,7 @@ public class Pharma_testdata extends Pharmabase_login
 	}
 
 
-@Test(enabled=false)
+@Test//(enabled=false)
 public void Verifications()
 {
 	Pharma_Verificationpage obje=new Pharma_Verificationpage(driver);
@@ -87,7 +87,7 @@ obje.Linkvalid();
 
 
 
-@Test(enabled=false)
+@Test//(enabled=false)
 public void Screenshot() throws Exception
 
 
