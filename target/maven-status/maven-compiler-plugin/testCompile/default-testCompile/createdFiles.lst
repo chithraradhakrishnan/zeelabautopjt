@@ -1,0 +1,9 @@
+pharmapage\Pharmapjt_page.class
+pharmapage\Pharma_register.class
+pharmapage\Pharma_Verificationpage.class
+Pharma_Base\Pharmabase_login.class
+Pharma_utility\PharmaUtility_login.class
+pharmapage\Pharma_Fileupload.class
+pharmapage\Pharma_Purchase.class
+pharmapage\Pharma_Screenshot.class
+pharmatest\Pharma_testdata.class
